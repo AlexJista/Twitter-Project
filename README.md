@@ -2,8 +2,8 @@
 
 Twitter is a massive online social networking microblogging service that allows users to post short messages (“tweets”) that are 280 characters long. Across the years, this has been not only a unique form of social media, but also assists those users interested in data mining experiments. Within the twitteR package, users are provided access to the Twitter API within R, enabling them to subset certain Twitter data for analyses.
 
-<img src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 15px; float: right;"/>
 
+<img src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 15px; float: right;"/>
 ### Installation
 
 In order to install the **twitteR** package within RStudio is to firstly install [RStudio](http://rstudio.com/products/rstudio/download/preview). RStudio enables you to use different functions in R.
