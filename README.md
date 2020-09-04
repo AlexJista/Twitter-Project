@@ -1,6 +1,6 @@
 ### twitteR Overview
 
-Twitter is a massive online social networking microblogging service that allows users to post short messages (“tweets”) that are 280 characters long. Across the years, this has been not only a unique form of social media, but also assists those users interested in data mining experiments. Within the twitteR package, users are provided access to the Twitter API within R, enabling them to subset certain Twitter data for analyses.
+[Twitter](http:twitter.com) is a massive online social networking microblogging service that allows users to post short messages (“tweets”) that are 280 characters long. Across the years, this has been not only a unique form of social media, but also assists those users interested in data mining experiments. Within the twitteR package, users are provided access to the Twitter API within R, enabling them to subset certain Twitter data for analyses.
 
 
 
