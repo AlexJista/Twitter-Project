@@ -20,3 +20,5 @@ install.packages("httr")
 install.packages("openssl")
 install.packages("RSQLite")
 ```
+
+To begin using Twitter's API, one must create a Twitter account and register for a [Developer Account](http://developer.twitter.com/en/apply-for-access). 
